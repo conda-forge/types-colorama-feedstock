@@ -1,5 +1,5 @@
 {% set name = "types-colorama" %}
-{% set version = "0.4.15.3" %}
+{% set version = "0.4.15.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-colorama-{{ version }}.tar.gz
-  sha256: 9362f49167505f711bbc9a6352dae6650495b3053383868f7f76bfeb8d923002
+  sha256: 60f7d6257913135218564cf1b9d2e9678c0ce72c051d9ffaa1a74c76904e5808
 
 build:
   number: 0
